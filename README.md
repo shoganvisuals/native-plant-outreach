@@ -34,7 +34,7 @@ The project's foundational analysis proved a core challenge in urban water manag
 [https://tinyurl.com/Tableau-Native-Plants]
 
 **ArcGIS Online Map Image** (Targeted Runoff Severity Map):
-![Download_Runoff Map](images/CLWD_ArcGIS.png)
+![Download Map](https://raw.githubusercontent.com/shoganvisuals/images/ArcGis_RunoffMap.png)
 
 ## Next Steps
 
