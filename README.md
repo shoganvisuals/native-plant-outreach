@@ -1,5 +1,7 @@
 # Costa Linda Water Stewardship Initiative: Native Plant Outreach
 
+![Executive Summary](EXECUTIVE SUMMARY (2).PDF)
+
 ## Project Overview
 
 This repository documents a data-driven public outreach and education program designed for the fictional **Costa Linda Water Department**. The initiative promotes water conservation by encouraging residential property owners to transition from traditional lawns to native, drought-adapted plants.
@@ -35,6 +37,13 @@ The project's foundational analysis proved a core challenge in urban water manag
 
 **ArcGIS Online Map Image** (Targeted Runoff Severity Map):
 ![Download Map](https://github.com/shoganvisuals/native-plant-outreach/blob/images/ArcGis_RunoffMap.png)
+
+**Program Info Flyer** (For distribution to public):
+![Program Flyer](Native Plants Program.png)
+
+**Program Proposal to Water District Admins** (Justification for the program's approval):
+![Program Proposal](Turf Removal Program Proposal.pdf)
+
 
 ## Next Steps
 
