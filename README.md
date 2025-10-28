@@ -1,6 +1,6 @@
 # Costa Linda Water Stewardship Initiative: Native Plant Outreach
 
-![Executive Summary](EXECUTIVE SUMMARY (2).PDF)
+[Executive Summary](EXECUTIVE_SUMMARY_(2).PDF)
 
 ## Project Overview
 
@@ -39,10 +39,10 @@ The project's foundational analysis proved a core challenge in urban water manag
 ![Download Map](https://github.com/shoganvisuals/native-plant-outreach/blob/images/ArcGis_RunoffMap.png)
 
 **Program Info Flyer** (For distribution to public):
-![Program Flyer](Native Plants Program.png)
+![Program Flyer](Native_Plants_Program.png)
 
 **Program Proposal to Water District Admins** (Justification for the program's approval):
-![Program Proposal](Turf Removal Program Proposal.pdf)
+[Program Proposal](Turf_Removal_Program_Proposal.pdf)
 
 
 ## Next Steps
