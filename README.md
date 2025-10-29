@@ -26,7 +26,7 @@ The project's foundational analysis proved a core challenge in urban water manag
 | **Data Synthesis & Analysis** | **Excel** (Cleaning, Calculated Fields), **SQL** (Mock Verification) | Cleaned CSV data showing usage across four categories (Residential, Golf, Park, Commercial). | Ability to absorb and translate technical water data. |
 | **Geospatial Visualization** | **ArcGIS Online** | Mock map layer identifying residential areas with the highest Runoff Severity Scores (R-Scores) to guide targeted outreach. | Expertise in translating data to visual communication. |
 | **Visual Communication** | **Canva** | High-impact, actionable flyer designed for public consumption, featuring a QR code linked to the dashboard. | Design and production of environmental stewardship materials. |
-| **Public Presentation** | **Presentation Script** | Script for a City Council presentation, focused on using data (Tableau/ArcGIS) to justify program funding and budget approval. | Making persuasive presentations to internal and external stakeholders. |
+| **Program Proposal** | **Research and Reports** | Sheet for a meeting with water district administrators focused on data found on Los Angeles' and California's water-related websites and reports by authoritative organizations were used to justify program funding and budget approval. | Making persuasive presentations to internal stakeholders. |
 
 ---
 
