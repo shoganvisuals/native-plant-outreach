@@ -39,7 +39,7 @@ The project's foundational analysis proved a core challenge in urban water manag
 ![Download Map](https://github.com/shoganvisuals/native-plant-outreach/blob/images/ArcGis_RunoffMap.png)
 
 **Program Info Flyer** (For distribution to public):
-![Program Flyer](program-flyer.png.png)
+![Program Flyer](program-flyer.png)
 
 **Program Proposal to Water District Admins** (Justification for the program's approval):
 [Program Proposal](program-proposal.pdf)
